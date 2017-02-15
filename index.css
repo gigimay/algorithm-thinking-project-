@@ -1,0 +1,11 @@
+div{
+  display: flex;
+  margin:20px;
+  align-items: center;
+  justify-content: center;
+  /*height:200px;
+  width:200px;*/
+}
+/*div p{
+  display: grid;
+}*/
